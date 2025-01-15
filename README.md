@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aman0207github
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning front-end development.
+- 👀 I’m interested in data.
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me ...Message Me
 
